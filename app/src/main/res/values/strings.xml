@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chrisroidhng</string>
+    <string name="link">www.internship.zuri.team</string>
+    <string name="firstName">First Name</string>
+    <string name="talk">Hello, I am chris, this is my stage 2 task for HNG Internship. Please fill your name in the textbox below and watch it display above.</string>
+    <string name="fullName">Full Name</string>
+    <string name="display">Display</string>
+</resources>
